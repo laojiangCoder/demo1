@@ -1,3 +1,4 @@
+-- 管理员
 create table admin(
    adminId int primary key auto_increment,
    adminNo varchar(100),
