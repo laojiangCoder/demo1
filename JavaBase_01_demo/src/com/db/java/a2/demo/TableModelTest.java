@@ -97,7 +97,7 @@ public class TableModelTest {
  
  
     public static void main(String[] args) {
-        new TableModelTest().init();
+        new TableModelTest().init(); //运行表格界面
     }
  
 }
